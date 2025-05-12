@@ -1,0 +1,44 @@
+# Fichiers Java compilés
+*.class
+
+# Dossiers de sortie de compilation
+/bin/
+/build/
+/out/
+
+# Eclipse
+.settings/
+.project
+.classpath
+
+# Fichiers de logs
+*.log
+
+# Maven
+target/
+
+# Gradle
+.gradle/
+build/
+
+# Fichiers système
+.DS_Store
+Thumbs.db
+
+# Eclipse Core
+.metadata/
+
+# Fichiers temporaires
+*.tmp
+*.bak
+*.swp
+
+# Fichiers de tests générés
+test-output/
+
+# IntelliJ IDEA (au cas où)
+.idea/
+*.iml
+
+# VS Code (si jamais utilisé)
+.vscode/
