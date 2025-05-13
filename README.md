@@ -37,17 +37,21 @@ git clone https://github.com/votre-utilisateur/enigme-des-bidons.git
 cd enigme-des-bidons
 
 # Assurez-vous que les fichiers sources sont dans src/water
-
+```
 
 ---
 
 Exécution
 
 # Compilez les sources
+```bash
 javac src/water/*.java
+```
 
 # Lancez le programme principal
+```bash
 java -cp src water.JeuBidons
+```
 
 Suivez les instructions à l’écran pour interagir avec les bidons.
 
@@ -128,7 +132,7 @@ JeuBidons : point d’entrée principal, gère l’interaction avec l’utilisat
 ---
 
 Structure du projet
-
+```
 enigme-des-bidons/
 ├── src/
 │   └── water/
@@ -140,7 +144,7 @@ enigme-des-bidons/
 │       ├── GestionnaireCommandes.java
 │       └── JeuBidons.java
 └── README.md
-
+```
 
 ---
 
