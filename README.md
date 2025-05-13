@@ -133,7 +133,7 @@ JeuBidons : point d’entrée principal, gère l’interaction avec l’utilisat
 
 Structure du projet
 ```
-enigme-des-bidons/
+enigme_des_bidons/
 ├── src/
 │   └── water/
 │       ├── Bidon.java
